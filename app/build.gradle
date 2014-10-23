@@ -5,7 +5,7 @@ android {
         config {
             keyAlias 'timmy'
             keyPassword '***REMOVED***'
-            storeFile file('F:/Google Drive/Programming/Languages/Android/keystore/keystore')
+            storeFile file('./Google Drive/Programming/Languages/Android/keystore/keystore')
             storePassword '***REMOVED***'
         }
     }
